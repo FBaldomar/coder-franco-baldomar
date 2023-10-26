@@ -1,3 +1,9 @@
 header{
     background-color: blueviolet;
 }
+main{
+    padding: auto;
+    margin: auto;
+    text-align: justify;
+    background-color: blueviolet;
+}
